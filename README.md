@@ -1,2 +1,2 @@
-# my-test
+# my-test is my read-me file
 my first git repo
